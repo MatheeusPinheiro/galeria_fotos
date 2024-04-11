@@ -1,10 +1,12 @@
 # Projeto Galeria de Fotos feito em React 🚀
 
+> Link para visualização do projeto: [Galeria de Fotos](https://galeria-fotos-react.netlify.app/11)
+
 ## Tecnologias utilizadas 👩🏻‍💻
 - Next
 - Tailwind
 
-## Conhecimento obtidos
+## Conhecimento obtidos ⚙
 - Criação de Props
 - Criação de Componentes
 - Uso de States
@@ -18,3 +20,4 @@
 ![image](https://github.com/MatheeusPinheiro/galeria_fotos/assets/78563956/95c4a5a2-4213-409d-a193-58524da393be)
 
 
+Projeito feito no curso da B7Web 😀
